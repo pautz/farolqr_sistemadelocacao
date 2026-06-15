@@ -2,3 +2,5 @@
 sistema de locação que vai os registros para opentowork e são enviados por email
 tem o .sql no zip para criar o banco de dados
 esta o link direto da minha hospedagem a direita para download
+
+https://farolqr.com/sqltanozip.zip
